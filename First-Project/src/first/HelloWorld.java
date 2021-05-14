@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("my name is ulululul");
 		System.out.println("my name is naul");
 		System.out.println("충돌은 무서운데ㅠㅠ");
+		System.out.println("충돌을 해결하려면?");
 	}
 
 }
